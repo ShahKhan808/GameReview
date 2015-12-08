@@ -129,7 +129,7 @@ void loadSums()
 
 void loadData()
 {
-  String[] strings = loadStrings("Dublin Airport.csv");
+  String[] strings = loadStrings("phoenixparkrain.csv");
   
   for(String s:strings)
   {
