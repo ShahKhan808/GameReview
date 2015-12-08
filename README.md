@@ -1,11 +1,5 @@
-# GameReview
-Data Visualisation of all games and consoles reviewed by IGN
+Phoenix Park Rain Data
 
-I took a Data Set which was freely available on the internet of all the games that IGN (popular video
-game review company) reviewed out of 10 as well as the catagory of that game and the format it is
-played on. 
+I got phoenix park's rain data for 10 years from 2005-2015 and represent it using processing visualisation.
 
-Using this dataset, the user will be able to select through a menu which will contain at least 3 
-different visualisations for example, a plot graph, line graph, bar chart, etc and I will make it
-interactive so if you interacts with the graphs they will be able to see more information about it.
-
+It will show the sum total of rain that fell on a year over a course of 10 years.
